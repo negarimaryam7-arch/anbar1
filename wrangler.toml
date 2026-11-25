@@ -1,0 +1,8 @@
+name = "anbar-warehouse"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "anbar-db"
+database_id = "ace7a31d-105a-4fe1-bf12-2a791cc88a4d"
